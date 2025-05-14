@@ -1,0 +1,10 @@
+<svg width="252" height="252" viewBox="0 0 252 252" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M126 1.00001L126 126L251 1.00001L126 1.00001Z" fill="#F9F9F9"/>
+<path d="M126 251L126 126L1 251L126 251Z" fill="#F9F9F9"/>
+<path d="M251 126H126L251 251V126Z" fill="#F9F9F9"/>
+<path d="M1.00001 126L126 126L1.00002 1L1.00001 126Z" fill="#F9F9F9"/>
+<path d="M126 126L126 1.00001L251 1.00001L126 126ZM126 126L126 251L1 251L126 126ZM126 126H251V251L126 126ZM126 126L1.00001 126L1.00002 1L126 126Z" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M251 126H126L251 251V126Z" fill="#F9F9F9"/>
+<path d="M1.00001 126L126 126L1.00002 1L1.00001 126Z" fill="#F9F9F9"/>
+<path d="M126 126H251V251L126 126ZM126 126L1.00001 126L1.00002 1L126 126Z" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+</svg>

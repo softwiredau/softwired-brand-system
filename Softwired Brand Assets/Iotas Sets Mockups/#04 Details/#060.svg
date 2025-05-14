@@ -1,0 +1,10 @@
+<svg width="252" height="252" viewBox="0 0 252 252" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M126 126H251C251 91.4819 237.009 60.2319 214.388 37.6113L126 126Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M126 126L1.00001 126C1 160.518 14.9911 191.768 37.6116 214.389L126 126Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M126 1V126L214.388 37.6117C191.768 14.9911 160.518 1 126 1Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M126 251L126 126L37.6117 214.388C60.2322 237.009 91.4822 251 126 251Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M126 126V1C91.4819 1 60.2319 14.9911 37.6113 37.6117L126 126Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M126 126L126 251C160.518 251 191.768 237.009 214.389 214.388L126 126Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M1 126H126L37.6117 37.6113C14.9911 60.2319 1 91.4819 1 126Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M251 126L126 126L214.388 214.389C237.009 191.768 251 160.518 251 126Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+</svg>

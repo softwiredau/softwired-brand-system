@@ -1,0 +1,11 @@
+<svg width="253" height="252" viewBox="0 0 253 252" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M7.00195 7.00049H245.002V245H7.00195V7.00049Z" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<rect x="1.00195" y="1.00049" width="12" height="12" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<rect x="118.868" y="1.00049" width="12" height="12" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<rect x="251.002" y="1.00049" width="12" height="12" transform="rotate(90 251.002 1.00049)" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<rect x="251.002" y="120.567" width="12" height="12" transform="rotate(90 251.002 120.567)" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<rect x="237.868" y="239" width="12" height="12" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<rect x="118.868" y="239" width="12" height="12" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<rect x="1.00195" y="249.3" width="12" height="12" transform="rotate(-90 1.00195 249.3)" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<rect x="1.00195" y="130.3" width="12" height="12" transform="rotate(-90 1.00195 130.3)" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+</svg>

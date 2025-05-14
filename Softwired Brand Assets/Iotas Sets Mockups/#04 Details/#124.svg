@@ -1,0 +1,11 @@
+<svg width="252" height="252" viewBox="0 0 252 252" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M251 126L126 1V126H251Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M1.00002 126L126 251L126 126L1.00002 126Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M1.00001 126L126 1V126H1.00001Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M251 126L126 251L126 126L251 126Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M126 1H1L1 126L126 1Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M126 251L251 251L251 126L126 251Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M126 1H251L251 126L126 1Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M126 251L1 251L1.00001 126L126 251Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M1 1H251M1 1V251M1 1H126M1 1L1 126M251 1V251M251 1H126M251 1V126M251 251H1M251 251V126M251 251H126M1 251L1 126M1 251H126M126 1L251 126M126 1L1 126M126 1V126M251 126L126 251M251 126H126M126 251L1 126M126 251V126M1 126H126" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+</svg>

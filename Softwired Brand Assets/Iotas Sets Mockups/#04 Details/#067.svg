@@ -1,0 +1,18 @@
+<svg width="252" height="252" viewBox="0 0 252 252" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M126 126L126 1.00001C109.052 1.00001 92.8907 4.3732 78.1523 10.4849L126 126Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M126 126L126 251C142.948 251 159.109 247.627 173.848 241.515L126 126Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M126 126L251 126C251 109.052 247.627 92.8907 241.515 78.1523L126 126Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M126 126L1.00001 126C1.00001 142.948 4.3732 159.109 10.4849 173.848L126 126Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M37.6113 37.6117L126 126L78.1517 10.4849C62.874 16.8202 49.1249 26.0981 37.6113 37.6117Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M214.389 214.388L126 126L173.848 241.515C189.126 235.18 202.875 225.902 214.389 214.388Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M214.388 37.6113L126 126L241.515 78.1517C235.18 62.874 225.902 49.1249 214.388 37.6113Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M37.6117 214.389L126 126L10.4849 173.848C16.8202 189.126 26.0981 202.875 37.6117 214.389Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M126 126L37.6112 37.6117C26.0976 49.1252 16.8197 62.8743 10.4844 78.1521L126 126Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M126 126L214.389 214.388C225.902 202.875 235.18 189.126 241.516 173.848L126 126Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M126 126L214.388 37.6112C202.875 26.0976 189.126 16.8197 173.848 10.4844L126 126Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M126 126L37.6117 214.389C49.1252 225.902 62.8743 235.18 78.1521 241.516L126 126Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M1 126L126 126L10.4848 78.1521C4.37318 92.8904 0.999999 109.051 1 126Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M251 126L126 126L241.515 173.848C247.627 159.11 251 142.949 251 126Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M126 1L126 126L173.848 10.4848C159.11 4.37319 142.949 1 126 1Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M126 251L126 126L78.1521 241.515C92.8904 247.627 109.051 251 126 251Z" fill="#F9F9F9" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+</svg>
